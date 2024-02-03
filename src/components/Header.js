@@ -4,7 +4,9 @@ function Header(props) {
   const navStyle = {
     display: "flex",
     justifyContent: "space-around",
-    border: "3px solid black",
+    border: "3px solid blanchedalmond",
+    borderRadius: "10px",
+    backgroundColor: "rgb(232, 147, 147, 0.1)",
     padding: "8px",
     width: "90%",
     margin: "auto",

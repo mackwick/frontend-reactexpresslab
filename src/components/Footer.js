@@ -1,5 +1,5 @@
 function Footer(props) {
-  return <h1>Footer</h1>;
+  return <div className="Footer"> Copyright © 2024. MackWick GA Designs. </div>;
 }
 
 export default Footer;
